@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Threat Intelligence & Forensic Analyzer",
+  "description": "Advanced cybersecurity email threat analysis, IP geolocation tracking, and forensic intelligence reporting platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
